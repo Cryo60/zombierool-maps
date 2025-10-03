@@ -1,11 +1,10 @@
 {
   "maps": [
     {
-      "id": "nacht_der_untoten",
+      "id": "zr_nacht",
       "name": "Nacht der Untoten",
-      "description": "The original zombie survival map",
-      "difficulty": "Easy",
-      "download_url": "https://github.com/YOUR_USERNAME/zombierool-maps/raw/main/nacht_der_untoten.zip"
+      "description": "The original zombie survival map. Survive endless waves of the undead!",
+      "download_url": "https://github.com/Cryo60/zombierool-maps/raw/main/maps/Nacht%20der%20Untoten.zip"
     }
   ]
 }
