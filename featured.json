@@ -1,0 +1,12 @@
+{
+  "id": "zr_asylum",
+  "name": "Asylum",
+  "description": "A twisted asylum inspired by Verruckt. Navigate through dark corridors and insane experiments!",
+  "download_url": "https://github.com/Cryo60/zombierool-maps/raw/main/maps/Asylum.zip",
+  "preview_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/previews/Asylum.png",
+  "resource_pack": {
+    "url": "https://github.com/Cryo60/zombierool-maps/raw/main/resourcepacks/Asylum%20RP.zip",
+    "name": "Asylum"
+  },
+  "sha256": "ecdca3c6e40947a969103afb54d0812365e5b9cbe783a3d3f371250239029599",
+}
