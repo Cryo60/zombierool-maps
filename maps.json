@@ -5,7 +5,7 @@
       "name": "Nacht der Untoten",
       "description": "The original zombie survival map. Survive endless waves of the undead!",
       "download_url": "https://github.com/Cryo60/zombierool-maps/raw/main/maps/Nacht%20der%20Untoten.zip",
-      "sha256": "7081c6969d0fcf2432444f88647e95b68321c4230b272291874dc68e001cd588"
+      "sha256": "094d9341b2a878f184ee90ddac873e2fac8c7e0a8e42824c76a08444c1d69125"
     },
     {
       "id": "zr_asylum",
@@ -23,7 +23,7 @@
       "name": "Blut und Schnee",
       "description": "A Nazi chalet in the frozen Alps. Fight the undead in blood-stained snow during WWII!",
       "download_url": "https://github.com/Cryo60/zombierool-maps/raw/main/maps/Blut%20und%20Schnee.zip",
-      "sha256": "c36e7f2a40239ac4d57bf5a307270c8adbad29ce00ddcb3c595c827d834deda1",
+      "sha256": "a72902359110e765255027bbef266ed5dac44e06ac94d1837821f79e3b8eba43",
       "resource_pack": {
         "url": "https://github.com/Cryo60/zombierool-maps/raw/main/resourcepacks/Blut%20und%20Schnee%20RP.zip",
         "name": "Blut und Schnee RP"
