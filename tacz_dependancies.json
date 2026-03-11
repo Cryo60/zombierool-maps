@@ -4,40 +4,40 @@
       "id": "tacz_core",
       "name": "Timeless and Classics Zero",
       "page_url": "https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero/files/7401617",
-      "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/mods/tacz_default_gun.jar",
-      "filename": "tacz_default_gun.jar",
+      "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/mods/tacz-1.20.1-1.1.7-hotfix.jar",
+      "filename": "tacz-1.20.1-1.1.7-hotfix.jar",
       "type": "mod"
     },
     {
       "id": "lradd",
       "name": "LesRaisins Append Pack (Mod)",
       "page_url": "https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-guns-lesraisins-append-pack/files/6597881",
-      "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/mods/lradd_default_gun.jar",
-      "filename": "lradd_default_gun.jar",
+      "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/mods/lradd-1.20.1-0.3.0.jar",
+      "filename": "lradd-1.20.1-0.3.0.jar",
       "type": "mod"
     },
     {
       "id": "guccivuitton",
       "name": "Gucci Vuitton Attachments",
       "page_url": "https://www.curseforge.com/minecraft/mc-mods/tacz-gucci-vuitton-attachments/files/6062098",
-      "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/mods/gucci_vuitton_attachment.jar",
-      "filename": "gucci_vuitton_attachment.jar",
+      "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/mods/guccivuitton-1.20.1-0.2.2.jar",
+      "filename": "guccivuitton-1.20.1-0.2.2.jar",
       "type": "mod"
     },
     {
       "id": "fibers_gunspack",
       "name": "Fibers Gunspack",
       "page_url": "https://www.curseforge.com/minecraft/mc-mods/fibers-guns-pack-for-tacz/files/5707487",
-      "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/mods/fibers_gunspack.jar",
-      "filename": "fibers_gunspack.jar",
+      "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/mods/Fibers%20Gunspack%20Forge%20v1.3%20%281.18.2-1.20.1%29.jar",
+      "filename": "Fibers Gunspack Forge v1.3 (1.18.2-1.20.1).jar",
       "type": "mod"
     },
     {
       "id": "elitex_quality_guns",
       "name": "Elite X Quality Guns",
       "page_url": "https://www.curseforge.com/minecraft/mc-mods/elite-x-quality-guns/files/7059572",
-      "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/mods/elitex_quality_guns.jar",
-      "filename": "elitex_quality_guns.jar",
+      "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/mods/Elite%20X%20Quality%20Guns%20Forge%20v4.2%20-%201.20.1.jar",
+      "filename": "Elite X Quality Guns Forge v4.2 - 1.20.1.jar",
       "type": "mod"
     },
     {
