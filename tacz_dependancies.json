@@ -4,24 +4,24 @@
             "id": "tacz_core",
             "name": "Timeless and Classics Zero",
             "page_url": "https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero/files/7401617",
-            "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/mods/tacz_core.jar",
-            "filename": "tacz_core.jar",
+            "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/mods/tacz_default_gun.jar",
+            "filename": "tacz_default_gun.jar",
             "type": "mod"
         },
         {
             "id": "lradd",
             "name": "LesRaisins Append Pack (Mod)",
             "page_url": "https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-guns-lesraisins-append-pack/files/6597881",
-            "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/mods/lradd.jar",
-            "filename": "lradd.jar",
+            "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/mods/lradd_default_gun.jar",
+            "filename": "lradd_default_gun.jar",
             "type": "mod"
         },
         {
             "id": "guccivuitton",
             "name": "Gucci Vuitton Attachments",
             "page_url": "https://www.curseforge.com/minecraft/mc-mods/tacz-gucci-vuitton-attachments/files/6062098",
-            "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/mods/guccivuitton.jar",
-            "filename": "guccivuitton.jar",
+            "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/mods/gucci_vuitton_attachment.jar",
+            "filename": "gucci_vuitton_attachment.jar",
             "type": "mod"
         },
         {
@@ -44,64 +44,64 @@
             "id": "gunpack_cold_war",
             "name": "Cold War from 1947-1991",
             "page_url": "https://www.curseforge.com/minecraft/customization/coldwarguns/files/7042787",
-            "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/gunpacks/cold_war.zip",
-            "filename": "cold_war.zip",
+            "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/gunpacks/Cold War from 1947-1991 v0.51.zip",
+            "filename": "Cold War from 1947-1991 v0.51.zip",
             "type": "gunpack"
         },
         {
             "id": "gunpack_gunpowder",
             "name": "Gunpowder Revolution",
             "page_url": "https://www.curseforge.com/minecraft/customization/tacz-gunpowder-revolution-great-war-gunpack/files/6982844",
-            "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/gunpacks/gunpowder.zip",
-            "filename": "gunpowder.zip",
+            "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/gunpacks/GunpowderRevolution_gunpack v1.2.7.zip",
+            "filename": "GunpowderRevolution_gunpack v1.2.7.zip",
             "type": "gunpack"
         },
         {
             "id": "gunpack_halo",
             "name": "Halo Weapon Pack",
             "page_url": "https://www.curseforge.com/minecraft/customization/tacz-halo-weapon-pack-for-tacz/files/7666758",
-            "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/gunpacks/halo_weapon_pack.zip",
-            "filename": "halo_weapon_pack.zip",
+            "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/gunpacks/Halo Weapon Pack v1.6.0.zip",
+            "filename": "Halo Weapon Pack v1.6.0.zip",
             "type": "gunpack"
         },
         {
             "id": "gunpack_mw19",
             "name": "Modern Warfare 2019 (NMW2)",
             "page_url": "https://www.curseforge.com/minecraft/customization/tacz-modern-warfare-2019-weapons-for-tac-zero/files/6828047",
-            "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/gunpacks/mw19.zip",
-            "filename": "mw19.zip",
+            "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/gunpacks/mw2019.zip",
+            "filename": "mw2019.zip",
             "type": "gunpack"
         },
         {
             "id": "gunpack_valorant",
             "name": "Valorant Gunpack",
             "page_url": "https://www.curseforge.com/minecraft/customization/tacz-valorant-gun-pack-for-tacz/files/7065572",
-            "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/gunpacks/valorant.zip",
-            "filename": "valorant.zip",
+            "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/gunpacks/Valorant_gunpack_v0.1.2_hotfix_1.zip",
+            "filename": "Valorant_gunpack_v0.1.2_hotfix_1.zip",
             "type": "gunpack"
         },
         {
             "id": "gunpack_wat",
             "name": "Weapons and Tactics (WaT)",
             "page_url": "https://www.curseforge.com/minecraft/customization/tacz-weapons-and-tactics/files/7468720",
-            "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/gunpacks/wat.zip",
-            "filename": "wat.zip",
+            "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/gunpacks/WaT 0.2.2.zip",
+            "filename": "WaT 0.2.2.zip",
             "type": "gunpack"
         },
         {
             "id": "gunpack_warzone",
             "name": "Warzone Gunpack",
             "page_url": "https://www.curseforge.com/minecraft/customization/tacz-call-of-duty-warzone-gunpack/files/7602560",
-            "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/gunpacks/warzone.zip",
-            "filename": "warzone.zip",
+            "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/gunpacks/[TaCZ1.1.7]Warzone Ver1.1.7A_Hotfix.zip",
+            "filename": "[TaCZ1.1.7]Warzone Ver1.1.7A_Hotfix.zip",
             "type": "gunpack"
         },
         {
             "id": "gunpack_enlisted",
             "name": "Enlisted Gun Pack",
             "page_url": "https://www.curseforge.com/minecraft/customization/tacz-enlisted-gunpack/files/7640682",
-            "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/gunpacks/enlisted.zip",
-            "filename": "enlisted.zip",
+            "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/gunpacks/[TaCZ] Enlisted Gun Pack v1.2.1.3.zip",
+            "filename": "[TaCZ] Enlisted Gun Pack v1.2.1.3.zip",
             "type": "gunpack"
         }
     ]
