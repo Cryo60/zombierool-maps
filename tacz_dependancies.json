@@ -103,6 +103,13 @@
       "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/gunpacks/%5BTaCZ%5D%20Enlisted%20Gun%20Pack%20v1.2.1.3.zip",
       "filename": "[TaCZ] Enlisted Gun Pack v1.2.1.3.zip",
       "type": "gunpack"
-    }
+    },
+    "id": "gunpack_mw_twg",
+      "name": "[TaCZ] Modern Warfare Gun Pack for TaCZ",
+      "page_url": "https://www.curseforge.com/minecraft/customization/tacz-enlisted-gunpack/files/7640682",
+      "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/gunpacks/mw19_guns_addon_v200.zip",
+      "filename": "mw19_guns_addon_v200.zip",
+      "type": "gunpack"
+    
   ]
 }
