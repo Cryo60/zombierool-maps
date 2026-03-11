@@ -104,12 +104,21 @@
       "filename": "[TaCZ] Enlisted Gun Pack v1.2.1.3.zip",
       "type": "gunpack"
     },
+	{
     "id": "gunpack_mw_twg",
       "name": "[TaCZ] Modern Warfare Gun Pack for TaCZ",
       "page_url": "https://www.curseforge.com/minecraft/customization/tacz-enlisted-gunpack/files/7640682",
       "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/gunpacks/mw19_guns_addon_v200.zip",
       "filename": "mw19_guns_addon_v200.zip",
       "type": "gunpack"
-    
+	},
+	{
+	"id": "gunpack_bo6",
+      "name": "[TACZ]Black Ops6 gunpack",
+      "page_url": "https://www.curseforge.com/minecraft/customization/tacz-black-ops6-gunpack/files/6024155",
+      "download_url": "https://raw.githubusercontent.com/Cryo60/zombierool-maps/main/tacz/gunpacks/%5BBO6%5DBlack%20Ops6%20v1.1pre5.zip",
+      "filename": "[BO6]Black Ops6 v1.1pre5.zip",
+      "type": "gunpack"
+	}
   ]
 }
