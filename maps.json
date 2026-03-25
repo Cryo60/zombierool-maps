@@ -39,6 +39,28 @@
         "url": "https://github.com/Cryo60/zombierool-maps/releases/download/zr_asylum-v1.0.0/Asylum_RP.zip",
         "name": "Asylum_RP"
       }
+    },
+    {
+      "id": "zr_blut_und_schnee",
+      "name": "Blut und Schnee",
+      "version": "1.0.0",
+      "game_version": "1.20.1",
+      "zr_version": "1.5.3.2",
+      "author": "Official",
+      "tags": [
+        "nazi",
+        "chalet",
+        "ww2"
+      ],
+      "description": "A Nazi chalet in the frozen Alps. Fight the undead in blood-stained snow during WWII!",
+      "image_url": "https://github.com/Cryo60/zombierool-maps/releases/download/zr_blut_und_schnee-v1.0.0/blut_und_schnee.png",
+      "download_url": "https://github.com/Cryo60/zombierool-maps/releases/download/zr_blut_und_schnee-v1.0.0/Blut_und_Schnee.zip",
+      "sha256": "a72902359110e765255027bbef266ed5dac44e06ac94d1837821f79e3b8eba43",
+      "reviews": [],
+      "resource_pack": {
+        "url": "https://github.com/Cryo60/zombierool-maps/releases/download/zr_blut_und_schnee-v1.0.0/Blut_und_Schnee_RP.zip",
+        "name": "Blut_und_Schnee_RP"
+      }
     }
   ]
 }
