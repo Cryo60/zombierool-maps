@@ -17,6 +17,28 @@
       "download_url": "https://github.com/Cryo60/zombierool-maps/releases/download/zr_nacht-v1.0.0/Nacht%20der%20Untoten.zip",
       "sha256": "b9662421e12c7fbd104d70a129a631c6771b70dfebc87c4b54edecae9562a7ee",
       "reviews": []
+    },
+    {
+      "id": "zr_asylum",
+      "name": "Asylum",
+      "version": "1.0.0",
+      "game_version": "1.20.1",
+      "zr_version": "1.5.3.2",
+      "author": "Official",
+      "tags": [
+        "verruckt",
+        "horror",
+        "asylum"
+      ],
+      "description": "A twisted asylum inspired by Verruckt. Navigate through dark corridors and insane experiments!",
+      "image_url": "https://github.com/Cryo60/zombierool-maps/releases/download/zr_asylum-v1.0.0/verruckt.jpg",
+      "download_url": "https://github.com/Cryo60/zombierool-maps/releases/download/zr_asylum-v1.0.0/Asylum.zip",
+      "sha256": "fc9c28b0c050a562c10f5ede6cc969bb4026f9bcdcb13e515ea09ac00ecf1e71",
+      "reviews": [],
+      "resource_pack": {
+        "url": "https://github.com/Cryo60/zombierool-maps/releases/download/zr_asylum-v1.0.0/Asylum%20RP.zip",
+        "name": "Asylum RP"
+      }
     }
   ]
 }
