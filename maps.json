@@ -1,3 +1,22 @@
 {
-
+  "maps": [
+    {
+      "id": "zr_nacht",
+      "name": "Nacht der Untoten",
+      "version": "1.0.0",
+      "game_version": "1.20.1",
+      "zr_version": "1.5.3.2",
+      "author": "Official",
+      "tags": [
+        "survival",
+        "classic",
+        "cqc"
+      ],
+      "description": "The original zombie survival map. Survive endless waves of the undead!",
+      "image_url": "https://github.com/Cryo60/zombierool-maps/releases/download/zr_nacht-v1.0.0/nacht.jpg",
+      "download_url": "https://github.com/Cryo60/zombierool-maps/releases/download/zr_nacht-v1.0.0/Nacht%20der%20Untoten.zip",
+      "sha256": "b9662421e12c7fbd104d70a129a631c6771b70dfebc87c4b54edecae9562a7ee",
+      "reviews": []
+    }
+  ]
 }
