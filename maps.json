@@ -3,31 +3,60 @@
     {
       "id": "zr_nacht",
       "name": "Nacht der Untoten",
+      "version": "1.0.0",
+      "game_version": "1.20.1",
+      "zr_version": "1.5.3.2",
+      "author": "Official",
+      "tags": ["survival", "classic", "cqc"],
       "description": "The original zombie survival map. Survive endless waves of the undead!",
+      "image_url": "https://media.discordapp.net/attachments/1365815965111160944/1486156998591512580/Sans_titre.jpg?ex=69c47b0f&is=69c3298f&hm=7a92a32e49d5f28086cbd73488faa6140df2bedfd09c08c14ae7558a0b329347&=&format=webp",
       "download_url": "https://github.com/Cryo60/zombierool-maps/raw/main/maps/Nacht%20der%20Untoten.zip",
-      "sha256": "b9662421e12c7fbd104d70a129a631c6771b70dfebc87c4b54edecae9562a7ee"
+      "sha256": "b9662421e12c7fbd104d70a129a631c6771b70dfebc87c4b54edecae9562a7ee",
+      "reviews": []
     },
     {
       "id": "zr_asylum",
       "name": "Asylum",
+      "version": "1.0.0",
+      "game_version": "1.20.1",
+      "zr_version": "1.5.3.2",
+      "author": "Official",
+      "tags": ["asylum", "horror", "verruckt"],
       "description": "A twisted asylum inspired by Verruckt. Navigate through dark corridors and insane experiments!",
+      "image_url": "https://media.discordapp.net/attachments/1365815965111160944/1486156900365242468/2Q.png?ex=69c47af8&is=69c32978&hm=7d088018acbcda7d7de1968ef3b6dacb52befb15e64cb348437b13da5c8c988c&=&format=webp&quality=lossless",
       "download_url": "https://github.com/Cryo60/zombierool-maps/raw/main/maps/Asylum.zip",
       "sha256": "fc9c28b0c050a562c10f5ede6cc969bb4026f9bcdcb13e515ea09ac00ecf1e71",
       "resource_pack": {
         "url": "https://github.com/Cryo60/zombierool-maps/raw/main/resourcepacks/Asylum%20RP.zip",
         "name": "Asylum RP"
-      }
+      },
+      "reviews": [
+        {
+          "user_id": "123456789012345678",
+          "user": "ExamplePlayer",
+          "stars": 5,
+          "comment": "Amazing atmosphere!",
+          "date": "2023-11-01"
+        }
+      ]
     },
     {
       "id": "zr_blut_und_schnee",
       "name": "Blut und Schnee",
+      "version": "1.0.0",
+      "game_version": "1.20.1",
+      "zr_version": "1.5.3.2",
+      "author": "Official",
+      "tags": ["snow", "ww2", "nazi", "chalet"],
       "description": "A Nazi chalet in the frozen Alps. Fight the undead in blood-stained snow during WWII!",
+      "image_url": "",
       "download_url": "https://github.com/Cryo60/zombierool-maps/raw/main/maps/Blut%20und%20Schnee.zip",
       "sha256": "a72902359110e765255027bbef266ed5dac44e06ac94d1837821f79e3b8eba43",
       "resource_pack": {
         "url": "https://github.com/Cryo60/zombierool-maps/raw/main/resourcepacks/Blut%20und%20Schnee%20RP.zip",
         "name": "Blut und Schnee RP"
-      }
+      },
+      "reviews": []
     }
   ]
 }
