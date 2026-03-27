@@ -1,0 +1,13 @@
+{
+  "BETA_TESTER": {
+    "zrf": 500,
+    "camos": ["camo_woodland"],
+    "random_camo": {
+      "rarity": "rare",
+      "count": 1
+    }
+  },
+  "ZOMBIES2024": {
+    "zrf": 10000
+  }
+}
