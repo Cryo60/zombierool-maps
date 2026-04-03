@@ -57,7 +57,7 @@
     {
       "id": "zr_the_facility",
       "name": "The Facility",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "game_version": "1.20.1",
       "zr_version": "1.6.0",
       "author": "Official",
@@ -67,8 +67,8 @@
         "survival"
       ],
       "description": "An abandoned industrial complex overrun by the undead. Once used for unknown operations, it is now a decaying maze of concrete, rust, and darkness. Survive the waves, explore the facility, and uncover what really happened here.",
-      "image_url": "https://github.com/Cryo60/zombierool-maps/releases/download/zr_the_facility-v1.0.0/2026-04-03_23.59.49.png",
-      "download_url": "https://github.com/Cryo60/zombierool-maps/releases/download/zr_the_facility-v1.0.0/The%20Facility.zip",
+      "image_url": "https://github.com/Cryo60/zombierool-maps/releases/download/zr_the_facility-v1.0.1/2026-04-03_23.59.49.png",
+      "download_url": "https://github.com/Cryo60/zombierool-maps/releases/download/zr_the_facility-v1.0.1/The_Facility.zip",
       "sha256": "822165b44c6ff2849493d370047503b6c31fe6a071f8d1276a43c2728c739944",
       "reviews": []
     }
