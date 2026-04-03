@@ -39,9 +39,9 @@
     {
       "id": "zr_blut_und_schnee",
       "name": "Blut und Schnee",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "game_version": "1.20.1",
-      "zr_version": "1.5.3.2",
+      "zr_version": "1.6.0",
       "author": "Official",
       "tags": [
         "nazi",
@@ -49,8 +49,9 @@
         "ww2"
       ],
       "description": "A Nazi chalet in the frozen Alps. Fight the undead in blood-stained snow during WWII!",
-      "image_url": "https://github.com/Cryo60/zombierool-maps/releases/download/zr_blut_und_schnee-v1.0.0/blut_und_schnee.png",
-      "download_url": "https://github.com/Cryo60/zombierool-maps/releases/download/zr_blut_und_schnee-v1.0.0/Blut_und_Schnee.zip",
+      "image_url": "https://github.com/Cryo60/zombierool-maps/releases/download/zr_blut_und_schnee-v1.1.0/2026-04-03_18.00.20.png",
+      "download_url": "https://github.com/Cryo60/zombierool-maps/releases/download/zr_blut_und_schnee-v1.1.0/Blut%20und%20Schnee.zip",
+      "sha256": "b510cafafaeaa003dd77a3c7ad2c993662dc1c329ecbd2039d5af35845776c23",
       "reviews": []
     }
   ]
