@@ -53,6 +53,24 @@
       "download_url": "https://github.com/Cryo60/zombierool-maps/releases/download/zr_blut_und_schnee-v1.1.0/Blut%20und%20Schnee.zip",
       "sha256": "b510cafafaeaa003dd77a3c7ad2c993662dc1c329ecbd2039d5af35845776c23",
       "reviews": []
+    },
+    {
+      "id": "zr_the_facility",
+      "name": "The Facility",
+      "version": "1.0.0",
+      "game_version": "1.20.1",
+      "zr_version": "1.6.0",
+      "author": "Official",
+      "tags": [
+        "concrete",
+        "basic",
+        "survival"
+      ],
+      "description": "An abandoned industrial complex overrun by the undead. Once used for unknown operations, it is now a decaying maze of concrete, rust, and darkness. Survive the waves, explore the facility, and uncover what really happened here.",
+      "image_url": "https://github.com/Cryo60/zombierool-maps/releases/download/zr_the_facility-v1.0.0/2026-04-03_23.59.49.png",
+      "download_url": "https://github.com/Cryo60/zombierool-maps/releases/download/zr_the_facility-v1.0.0/The%20Facility.zip",
+      "sha256": "822165b44c6ff2849493d370047503b6c31fe6a071f8d1276a43c2728c739944",
+      "reviews": []
     }
   ]
 }
