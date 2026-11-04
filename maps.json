@@ -1,1 +1,123 @@
-{"maps":[{"id":"zr_nacht","name":"Nacht der Untoten","version":"1.2.0","game_version":"1.20.1","zr_version":"26.7","author":"Official","tags":["classic","cqc","survival"],"description":"The original zombie survival map. Survive endless waves of the undead!","image_url":"https://github.com/Cryo60/zombierool-maps/releases/download/zr_nacht-v1.1.1/nacht.jpg","download_url":"https://github.com/Cryo60/zombierool-maps/releases/download/zr_nacht-v1.2.0/zr_nacht.zip","sha256":"b9f351358d93650b390dfc52d39281e26c9d392f9a5b9cf29f698b3c252fb7f4","reviews":[],"mods":[],"gunpacks":[]},{"id":"zr_asylum","name":"Asylum","version":"1.1.2","game_version":"1.20.1","zr_version":"1.6.0","author":"Official","tags":["asylum","horror","verruckt"],"description":"A twisted asylum inspired by Verruckt. Navigate through dark corridors and insane experiments!","image_url":"https://github.com/Cryo60/zombierool-maps/releases/download/zr_asylum-v1.1.0/2026-04-03_17.56.26.png","download_url":"https://github.com/Cryo60/zombierool-maps/releases/download/zr_asylum-v1.1.2/zr_asylum.zip","sha256":"18308ebafb417e2c6a36fab0b2af4dbf08d1ad43ecb3046f3f7db5eb4010a89b","reviews":[],"mods":[],"gunpacks":[]},{"id":"zr_blut_und_schnee","name":"Blut und Schnee","version":"1.1.1","game_version":"1.20.1","zr_version":"1.6.0","author":"Official","tags":["nazi","chalet","ww2"],"description":"A Nazi chalet in the frozen Alps. Fight the undead in blood-stained snow during WWII!","image_url":"https://github.com/Cryo60/zombierool-maps/releases/download/zr_blut_und_schnee-v1.1.1/2026-04-03_18.00.20.png","download_url":"https://github.com/Cryo60/zombierool-maps/releases/download/zr_blut_und_schnee-v1.1.1/Blut_und_Schnee.zip","sha256":"b510cafafaeaa003dd77a3c7ad2c993662dc1c329ecbd2039d5af35845776c23","reviews":[{"user_id":"minecraft:c0bbf1211e7c485d86e3773e1550f101","user":"Neidolit","stars":5,"comment":"","date":"2026-10-25","platform":"minecraft"},{"user_id":"minecraft:1d9aab01178d454cad3d99e0ba63bcff","user":"pirominecraft","stars":5,"comment":"","date":"2026-10-26","platform":"minecraft"}]},{"id":"zr_the_facility","name":"The Facility","version":"1.0.1","game_version":"1.20.1","zr_version":"1.6.0","author":"Official","tags":["concrete","basic","survival"],"description":"An abandoned industrial complex overrun by the undead. Once used for unknown operations, it is now a decaying maze of concrete, rust, and darkness. Survive the waves, explore the facility, and uncover what really happened here.","image_url":"https://github.com/Cryo60/zombierool-maps/releases/download/zr_the_facility-v1.0.1/2026-04-03_23.59.49.png","download_url":"https://github.com/Cryo60/zombierool-maps/releases/download/zr_the_facility-v1.0.1/The_Facility.zip","sha256":"822165b44c6ff2849493d370047503b6c31fe6a071f8d1276a43c2728c739944","reviews":[]},{"id":"zr_stratholme","name":"Stratholme","version":"1.0.0","game_version":"1.20.1","zr_version":"1.6.6","author":"Official","description":"Stratholme was once the jewel of northern Lordaeron, but today it is remembered for its harrowing fall to ruin. It was here that Prince Arthas turned his back on the noble paladin Uther Lightbringer, slaughtering countless residents believed to be infected with the horrific plague of undeath. Ever since, cursed Stratholme has been marred by death, betrayal, and hopelessness.","tags":["warcraft","quests","hard"],"mods":[],"gunpacks":[],"reviews":[],"sha256":"60146c3a85aa9e3a5a386e157205fc57bfcfec53b2fc70b5f7950ef6a1bf0475","download_url":"https://github.com/Cryo60/zombierool-maps/releases/download/zr_stratholme-v1.0.0/zr_stratholme.zip","image_url":"https://github.com/Cryo60/zombierool-maps/releases/download/zr_stratholme-v1.0.0/cover.png"}],"config":{"blacklist":[],"upload_lock":false,"upload_lock_reason":"Maintenance in progress.","manual_validation":false}}
+{
+  "maps": [
+    {
+      "id": "zr_nacht",
+      "name": "Nacht der Untoten",
+      "version": "1.2.0",
+      "game_version": "1.20.1",
+      "zr_version": "26.7",
+      "author": "Official",
+      "tags": [
+        "classic",
+        "cqc",
+        "survival"
+      ],
+      "description": "The original zombie survival map. Survive endless waves of the undead!",
+      "image_url": "https://github.com/Cryo60/zombierool-maps/releases/download/zr_nacht-v1.1.1/nacht.jpg",
+      "download_url": "https://github.com/Cryo60/zombierool-maps/releases/download/zr_nacht-v1.2.0/zr_nacht.zip",
+      "sha256": "b9f351358d93650b390dfc52d39281e26c9d392f9a5b9cf29f698b3c252fb7f4",
+      "reviews": [],
+      "mods": [],
+      "gunpacks": []
+    },
+    {
+      "id": "zr_asylum",
+      "name": "Asylum",
+      "version": "1.1.2",
+      "game_version": "1.20.1",
+      "zr_version": "1.6.0",
+      "author": "Official",
+      "tags": [
+        "asylum",
+        "horror",
+        "verruckt"
+      ],
+      "description": "A twisted asylum inspired by Verruckt. Navigate through dark corridors and insane experiments!",
+      "image_url": "https://github.com/Cryo60/zombierool-maps/releases/download/zr_asylum-v1.1.0/2026-04-03_17.56.26.png",
+      "download_url": "https://github.com/Cryo60/zombierool-maps/releases/download/zr_asylum-v1.1.2/zr_asylum.zip",
+      "sha256": "18308ebafb417e2c6a36fab0b2af4dbf08d1ad43ecb3046f3f7db5eb4010a89b",
+      "reviews": [],
+      "mods": [],
+      "gunpacks": []
+    },
+    {
+      "id": "zr_blut_und_schnee",
+      "name": "Blut und Schnee",
+      "version": "1.1.1",
+      "game_version": "1.20.1",
+      "zr_version": "1.6.0",
+      "author": "Official",
+      "tags": [
+        "nazi",
+        "chalet",
+        "ww2"
+      ],
+      "description": "A Nazi chalet in the frozen Alps. Fight the undead in blood-stained snow during WWII!",
+      "image_url": "https://github.com/Cryo60/zombierool-maps/releases/download/zr_blut_und_schnee-v1.1.1/2026-04-03_18.00.20.png",
+      "download_url": "https://github.com/Cryo60/zombierool-maps/releases/download/zr_blut_und_schnee-v1.1.1/Blut_und_Schnee.zip",
+      "sha256": "b510cafafaeaa003dd77a3c7ad2c993662dc1c329ecbd2039d5af35845776c23",
+      "reviews": [
+        {
+          "user_id": "minecraft:c0bbf1211e7c485d86e3773e1550f101",
+          "user": "Neidolit",
+          "stars": 5,
+          "comment": "",
+          "date": "2026-10-25",
+          "platform": "minecraft"
+        },
+        {
+          "user_id": "minecraft:1d9aab01178d454cad3d99e0ba63bcff",
+          "user": "pirominecraft",
+          "stars": 5,
+          "comment": "",
+          "date": "2026-10-26",
+          "platform": "minecraft"
+        }
+      ]
+    },
+    {
+      "id": "zr_the_facility",
+      "name": "The Facility",
+      "version": "1.0.1",
+      "game_version": "1.20.1",
+      "zr_version": "1.6.0",
+      "author": "Official",
+      "tags": [
+        "concrete",
+        "basic",
+        "survival"
+      ],
+      "description": "An abandoned industrial complex overrun by the undead. Once used for unknown operations, it is now a decaying maze of concrete, rust, and darkness. Survive the waves, explore the facility, and uncover what really happened here.",
+      "image_url": "https://github.com/Cryo60/zombierool-maps/releases/download/zr_the_facility-v1.0.1/2026-04-03_23.59.49.png",
+      "download_url": "https://github.com/Cryo60/zombierool-maps/releases/download/zr_the_facility-v1.0.1/The_Facility.zip",
+      "sha256": "822165b44c6ff2849493d370047503b6c31fe6a071f8d1276a43c2728c739944",
+      "reviews": []
+    },
+    {
+      "id": "zr_stratholme",
+      "name": "Stratholme",
+      "version": "1.0.0",
+      "game_version": "1.20.1",
+      "zr_version": "26.7.1",
+      "author": "Official",
+      "description": "Stratholme was once the jewel of northern Lordaeron, but today it is remembered for its harrowing fall to ruin. It was here that Prince Arthas turned his back on the noble paladin Uther Lightbringer, slaughtering countless residents believed to be infected with the horrific plague of undeath. Ever since, cursed Stratholme has been marred by death, betrayal, and hopelessness.",
+      "tags": [
+        "warcraft",
+        "quests",
+        "hard"
+      ],
+      "mods": [],
+      "gunpacks": [],
+      "reviews": [],
+      "sha256": "60146c3a85aa9e3a5a386e157205fc57bfcfec53b2fc70b5f7950ef6a1bf0475",
+      "download_url": "https://github.com/Cryo60/zombierool-maps/releases/download/zr_stratholme-v1.0.0/zr_stratholme.zip",
+      "image_url": "https://github.com/Cryo60/zombierool-maps/releases/download/zr_stratholme-v1.0.0/cover.png"
+    }
+  ],
+  "config": {
+    "blacklist": [],
+    "upload_lock": false,
+    "upload_lock_reason": "Maintenance in progress.",
+    "manual_validation": false
+  }
+}
